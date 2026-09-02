@@ -1,51 +1,25 @@
 <div align="center">
-  <img src="img/cute-cat-typing.gif" width="60%" alt="Coding Cat" />
-</div>
-
-<div align="center">
     <img src="img/gradient.png" width="100%" alt="Gradient image"/>
 </div>
 
-### 🛠 My Technology Stack
+<div align="center">
+  <img src="img/cute-cat-typing.gif" width="60%" alt="Coding Cat" />
+</div>
 
-🔹 **Languages and frameworks**
+
+### 🛠 Core Skills
+
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,redis,docker,nginx" />
+  </a>
 </p>
 
-🔹 **Databases and cache**
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### 📬 Contact Me
 
-🔹 **Asynchrony and queues**
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+- **@yourrr_mindd**
+- yuriy.medvedev.33@mail.ru
 
-🔹 **DevOps and Infrastructure**
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-🔹 **Architecture and protocols**
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
 <div align="center">
     <img src="img/gradient.png" width="100%" alt="Gradient image"/>
