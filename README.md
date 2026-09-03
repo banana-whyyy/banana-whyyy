@@ -1,18 +1,21 @@
 <div align="center">
-  <img src="img/cute-cat-typing.gif" width="60%" alt="Coding Cat" />
+  <img src="img/cute-cat-typing.gif" width="45%" alt="Coding Cat" />
 </div>
-
 
 ### 🛠 Core Skills
 
-<p align="left">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,redis,docker,nginx" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,nginx,git" />
   </a>
 </p>
 
-### 📬 Contact Me
+### 🚀 Projects
 
-- **@yourrr_mindd**
-- yuriy.medvedev.33@mail.ru
+- [Booking Service](https://github.com/banana-whyyy/booking-service)
+- [Order Processing Service](https://github.com/banana-whyyy/order-processing-service)
 
+### 📬 Contact
+
+- **Telegram:** @yourrr_mindd
+- **Email:** yuriy.medvedev.33@mail.ru
