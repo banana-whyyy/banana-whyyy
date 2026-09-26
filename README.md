@@ -10,10 +10,9 @@
   </a>
 </p>
 
-### 🚀 Projects
+### 🚀 General project
 
 - [Booking Service](https://github.com/banana-whyyy/booking-service)
-- [Order Processing Service](https://github.com/banana-whyyy/order-processing-service)
 
 ### 📬 Contact
 
